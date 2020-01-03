@@ -3,18 +3,17 @@
 # Lay out a widget
 
 - ウィジェットは、UIの構築に使用されるクラスです。
-- ウィジェットは、レイアウト要素とUI要素の両方に使用されます。
-- 単純なウィジェットを作成して、複雑なウィジェットを作成します。
+- ウィジェットは、レイアウト要素とUI要素の両方に使用される。
+- 単純なウィジェットを作成して、複雑なレイアウトを作成できる。
 
 ## 1. Select a layout widget
 - 表示されているウィジェットを配置、制約、および整列する行、列、グリッドなどのウィジェットである
-- コンテナは子要素をカスタマイズできるウィジェットです。
+- コンテナは子要素をカスタマイズできるウィジェットである。
 
 ![clipboard.png](WAl6XNIN-clipboard.png)
 
 ## 2. Create a visible widget
 - 特になし
-
 
 ## 3. Add the visible widget to the layout widget
 
@@ -77,11 +76,11 @@ class MyApp extends StatelessWidget {
 # Lay out multiple widgets vertically and horizontally
 
 - 最も簡単なレイアウトパターンは縦か横、つまり列や行に沿ってウィジェットを並べる方法
-- Flutterで行や列を作るには、`Row` `Column` クラスを利用します。
+- Flutterで行や列を作るには、`Row` `Column` クラスを利用する。
 
 ![clipboard.png](3Dm1xAz--clipboard.png)
 
-- `Row` `Column` は最もプリミティブなウィジェットです。
+- `Row` `Column` は最もプリミティブなウィジェットである。
 - `Row` `Column` 以外にも特定の用途を満たすためのウィジェットである、
   `ListTile` `ListView` などのウィジェットが用意されている。
   
