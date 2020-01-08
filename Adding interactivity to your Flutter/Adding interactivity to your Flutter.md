@@ -20,4 +20,4 @@ https://flutter.dev/docs/development/ui/interactive
 
 - CustomStatefullWidgetを作成するには次の2つのクラスが必要
 - StatefullWidgetのサブクラス、Stateのサブクラス、ここにウィジェットを生成するbuild()が定義される
-- 
+
