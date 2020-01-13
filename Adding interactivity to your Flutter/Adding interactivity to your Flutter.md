@@ -1,4 +1,4 @@
-# 2020/01/07 WIP Adding interactivity to your Flutter
+# 2020/01/07 Adding interactivity to your Flutter
 
 # Adding interactivity to your Flutter
 https://flutter.dev/docs/development/ui/interactive
