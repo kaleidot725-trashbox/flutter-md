@@ -16,5 +16,5 @@
 - Animations
 
   - [2020/01/26 Introduction to animations](./Introduction to animations/Introduction to animations.md)
-  - [2020/01/27 Animations overview](./Animations overview./Animations overview.md)
+  - [2020/01/27 Animations overview](./Animations overview/Animations overview.md)
 
