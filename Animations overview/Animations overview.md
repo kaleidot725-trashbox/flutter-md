@@ -28,3 +28,14 @@ https://flutter.dev/docs/development/ui/animations/overview
 - 大抵はアニメーションは非表示状態で開始されます。（非表示状態はそれらの範囲の開始を意味する。）
 - アニメーションの進捗は 0 〜 1 で定義される。 0は非表示、アニメーションを開始したら 0 → 1、逆再生したときは 1 → 0 、 1 に到達したときはアニメーションの完了を表す。
 
+
+# Animation Controller
+
+- AnimationControler を利用して、アニメーションを制御する
+- AnimationControler からリバースやカーブのアニメーションを作成ｄできる。リバースは逆再生、カーブは緩急を付けたアニメーション再生。
+
+# Tween
+
+- Tween を利用することで間を補間できる、切り替えることができる。
+- ColorTweenなら色、 RectTweenなら四角の始まりと終わりを切り替えることができる。
+- この補間は Tween クラスを継承し、lerp 関数を Override することで実装できる。
